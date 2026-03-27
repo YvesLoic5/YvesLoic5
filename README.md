@@ -1,6 +1,6 @@
 ```bash
 ╔══════════════════════════════════════════════════════╗
-║           AI & LLMOps Engineer — Terminal v1.0       ║
+║           AI & LLMOps Engineer — Terminal            ║
 ╚══════════════════════════════════════════════════════╝
 
 $ identify --user
@@ -38,12 +38,8 @@ $ █
 
 ## `$ whoami`
 
-> Engineer focused on the **full lifecycle of AI systems** — from LLM fine-tuning and agent design to production deployment on Kubernetes. I work at the intersection of **ML engineering**, **DevOps**, and **system architecture**.
-
-- Building AI agents & LLM pipelines at **Swiftask** (Nantes, France 🇫🇷) — deploying & optimising open source AI models (VLLM, Ollama, Whisper) on scalable infrastructure
-- Speaker at **Google IO 2024** — *"What's New in Gemini"*
-- Ambassador of Madagascar — International CS Competition 🌍
-- Silver Honour — International Youth Math Challenge 2024
+* AI & LLMOps Engineer · Platform Engineer @ [Swiftask](https://app.swiftask.ai)  & [ia-souveraine](https://app.ia-souveraine.fr) 🇫🇷
+* Ambassador **International Computer Science Competition** · Madagascar  🌍
 
 ---
 
