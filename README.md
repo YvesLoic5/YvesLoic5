@@ -26,7 +26,7 @@ $ █
 
 # `> Yves Loïc SOATIANAINA`
 
-**AI & LLMOps Engineer** · Madagascar 🇲🇬
+**AI Application & Infrastructure Engineer** · Madagascar 🇲🇬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yves-loic)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/YvesLoic5)
