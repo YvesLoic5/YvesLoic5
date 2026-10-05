@@ -1,12 +1,12 @@
 ```bash
 ╔══════════════════════════════════════════════════════╗
-║           AI & LLMOps Engineer — Terminal            ║
+║ AI Application & Infrastructure Engineer  — Terminal ║
 ╚══════════════════════════════════════════════════════╝
 
 $ identify --user
 
   name     →  Yves Loïc SOATIANAINA
-  role     →  AI & LLMOps Engineer
+  role     →  AI Application & Infrastructure Engineer
   location →  Antananarivo, Madagascar 🇲🇬
   contact  →  yvesloic58@gmail.com
 
