@@ -38,7 +38,7 @@ $ █
 
 ## `$ whoami`
 
-* AI & LLMOps Engineer · Platform Engineer @ [Swiftask](https://app.swiftask.ai)  & [ia-souveraine](https://app.ia-souveraine.fr) 🇫🇷
+* AI Application & Infrastructure Engineer @ [Swiftask](https://app.swiftask.ai)  & [ia-souveraine](https://app.ia-souveraine.fr) 🇫🇷
 * Ambassador **International Computer Science Competition** · Madagascar  🌍
 
 ---
